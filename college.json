@@ -1,0 +1,10 @@
+{
+  "name": "Pikes Peak State College",
+  "slug": "pikespeak",
+  "domain": "pikespeak.edu",
+  "baseUrl": "https://pikespeak.edu",
+  "toolingRepo": "audit-pikespeak.edu",
+  "resultsRepo": "ppsc-audit",
+  "siteName": "Pikes Peak State College",
+  "canonicalSiteUrl": "https://thirstyhead.com/ppsc-audit/"
+}
